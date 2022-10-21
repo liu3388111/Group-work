@@ -1,4 +1,4 @@
-location,Code,cause,Case in 1990,Case in 2017,Change in absolute number(%),EAPCNo. (95 CI)
+location,Code,cause,Case in 1990,Case in 2017,change_percent,EAPC
 Afghanistan,AFG,Depressive disorders,377523.25,1178953,212.29,-0.02(-0.03--0.01)
 Albania,ALB,Depressive disorders,58480.38,66456.95,13.64,0.09(0.04-0.15)
 Algeria,DZA,Depressive disorders,838191.99,1579833.33,88.48,-0.22(-0.24--0.19)
