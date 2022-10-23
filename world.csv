@@ -1,25 +1,25 @@
 location,Code,cause,Case in 1990,Case in 2017,change_percent,EAPC
-Afghanistan,AFG,Depressive disorders,377523.25,1178953,212.29,-0.02(-0.03--0.01)
-Albania,ALB,Depressive disorders,58480.38,66456.95,13.64,0.09(0.04-0.15)
-Algeria,DZA,Depressive disorders,838191.99,1579833.33,88.48,-0.22(-0.24--0.19)
-American Samoa,ASM,Depressive disorders,931.48,1069.09,14.77,-0.11(-0.12--0.1)
-Andorra,AND,Depressive disorders,2046.52,3048.26,48.95,-0.13(-0.15--0.11)
-Angola,AGO,Depressive disorders,370861.9,985041.28,165.61,-0.13(-0.15--0.11)
-Antigua,ATG,Depressive disorders,1477.63,2460.37,66.51,-0.1(-0.13--0.07)
-Argentina,ARG,Depressive disorders,1044732.14,1499978.34,43.58,0.01(-0.02-0.03)
-Armenia,ARM,Depressive disorders,75875.69,87078.38,14.76,0.27(0.24-0.31)
-Australia,AUS,Depressive disorders,805525.64,1118655.29,38.87,-0.02(-0.12-0.08)
-Austria,AUT,Depressive disorders,271938.91,272251.71,0.12,-0.79(-0.86--0.71)
-Azerbaijan,AZE,Depressive disorders,150979.21,237500.92,57.31,-0.05(-0.09--0.01)
-Bahamas,BHS,Depressive disorders,6293.8,10342.19,64.32,-0.12(-0.14--0.1)
-Bahrain,BHR,Depressive disorders,23518.09,72412.37,207.9,-0.57(-0.67--0.47)
-Bangladesh,BGD,Depressive disorders,3740782.58,6688550.5,78.8,-0.02(-0.08-0.04)
-Barbados,BRB,Depressive disorders,7148.7,9575.23,33.94,0.07(0.04-0.1)
-Barbuda,BRB,Depressive disorders,1477.63,2460.37,66.51,-0.1(-0.13--0.07)
-Belarus,BLR,Depressive disorders,440970.46,451428.17,2.37,-0.08(-0.19-0.02)
-Belgium,BEL,Depressive disorders,360528.9,493192.27,36.8,0.88(0.79-0.97)
-Belize,BLZ,Depressive disorders,4118.31,10902.09,164.72,0.16(0.1-0.22)
-Benin,BEN,Depressive disorders,124180.47,323484.34,160.5,0.09(0.07-0.11)
+Afghanistan,AFG,Depressive disorders,377523.25,1178953,212.29,-0.02
+Albania,ALB,Depressive disorders,58480.38,66456.95,13.64,0.09
+Algeria,DZA,Depressive disorders,838191.99,1579833.33,88.48,-0.22
+American Samoa,ASM,Depressive disorders,931.48,1069.09,14.77,-0.11
+Andorra,AND,Depressive disorders,2046.52,3048.26,48.95,-0.13
+Angola,AGO,Depressive disorders,370861.9,985041.28,165.61,-0.13
+Antigua,ATG,Depressive disorders,1477.63,2460.37,66.51,-0.1
+Argentina,ARG,Depressive disorders,1044732.14,1499978.34,43.58,0.01
+Armenia,ARM,Depressive disorders,75875.69,87078.38,14.76,0.27
+Australia,AUS,Depressive disorders,805525.64,1118655.29,38.87,-0.02
+Austria,AUT,Depressive disorders,271938.91,272251.71,0.12,-0.79
+Azerbaijan,AZE,Depressive disorders,150979.21,237500.92,57.31,-0.05
+Bahamas,BHS,Depressive disorders,6293.8,10342.19,64.32,-0.12
+Bahrain,BHR,Depressive disorders,23518.09,72412.37,207.9,-0.57
+Bangladesh,BGD,Depressive disorders,3740782.58,6688550.5,78.8,-0.02
+Barbados,BRB,Depressive disorders,7148.7,9575.23,33.94,0.07
+Barbuda,BRB,Depressive disorders,1477.63,2460.37,66.51,-0.1
+Belarus,BLR,Depressive disorders,440970.46,451428.17,2.37,-0.08
+Belgium,BEL,Depressive disorders,360528.9,493192.27,36.8,0.88
+Belize,BLZ,Depressive disorders,4118.31,10902.09,164.72,0.16
+Benin,BEN,Depressive disorders,124180.47,323484.34,160.5,0.09
 Bermuda,BMU,Depressive disorders,2064.24,2281.75,10.54,-0.58(-0.61--0.54)
 Bhutan,BTN,Depressive disorders,15450.28,30278.74,95.98,-0.37(-0.4--0.33)
 Bolivia,BOL,Depressive disorders,168700.43,340880.67,102.06,-0.24(-0.29--0.2)
