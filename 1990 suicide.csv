@@ -1,0 +1,286 @@
+Entity,Code,Year,Suicide Rate,Prevalence,Population,Continent,,,Entity,Continent
+Afghanistan,AFG,1990,8.28,17415.20811,10694804,Asia,,,Abkhazia,Asia
+Albania,ALB,1990,4.1,10605.33569,3295073,Europe,,,Afghanistan,Asia
+Algeria,DZA,1990,6.6,14108.37179,25518074,Africa,,,Akrotiri and Dhekelia,Asia
+American Samoa,ASM,1990,7.3,10454.45806,47841,Oceania,,,Albania,Europe
+Andorra,AND,1990,9.71,13531.15319,53590,Europe,,,Algeria,Africa
+Angola,AGO,1990,17.59,12449.30586,11828643,Africa,,,American Samoa,Oceania
+Antigua and Barbuda,ATG,1990,2.34,12726.74061,63346,America,,,Andorra,Europe
+Argentina,ARG,1990,8.57,14504.9047,32637658,America,,,Angola,Africa
+Armenia,ARM,1990,3.37,10201.61243,3556544,Asia,,,Anguilla,America
+Australia,AUS,1990,12.8,16322.57232,17048002,Oceania,,,Antarctica,Antarctica
+Austria,AUT,1990,19.43,13483.76818,7678732,Europe,,,Antigua and Barbuda,America
+Azerbaijan,AZE,1990,3.43,10097.75009,7427840,Asia,,,Argentina,America
+Bahamas,BHS,1990,3.01,12733.91312,270690,America,,,Armenia,Asia
+Bahrain,BHR,1990,5.9,14073.53737,517429,Asia,,,Aruba,America
+Bangladesh,BGD,1990,11.78,13403.70553,107147656,Asia,,,Australia,Oceania
+Barbados,BRB,1990,4.54,12835.45169,258871,America,,,Austria,Europe
+Belarus,BLR,1990,20.27,11375.02928,10428527,Europe,,,Austria-Hungary,Europe
+Belgium,BEL,1990,17.99,13303.05528,9959565,Europe,,,Azerbaijan,Asia
+Belize,BLZ,1990,5.64,12863.35688,182603,America,,,Baden,Europe
+Benin,BEN,1990,11.05,11722.2412,5133429,Africa,,,Bahamas,America
+Bermuda,BMU,1990,5.83,13165.25973,57490,America,,,Bahrain,Asia
+Bhutan,BTN,1990,8.69,12310.82078,558449,Asia,,,Bangladesh,Asia
+Bolivia,BOL,1990,7.78,12560.23931,7096195,America,,,Barbados,America
+Bosnia and Herzegovina,BIH,1990,9.96,11287.60118,4494314,Europe,,,Bavaria,Europe
+Botswana,BWA,1990,18.7,12078.57888,1341480,Africa,,,Belarus,Europe
+Brazil,BRA,1990,7.25,13801.82458,150706448,America,,,Belgium,Europe
+Brunei,BRN,1990,5.72,10513.73651,261936,Asia,,,Belize,America
+Bulgaria,BGR,1990,17.36,10969.69196,8767778,Europe,,,Benin,Africa
+Burkina Faso,BFA,1990,13.91,11914.7996,9131362,Africa,,,Bermuda,America
+Burundi,BDI,1990,20.1,13129.05914,5483800,Africa,,,Bhutan,Asia
+Cambodia,KHM,1990,7.73,13395.30474,8910806,Asia,,,Bolivia,America
+Cameroon,CMR,1990,11.77,11545.79319,11430519,Africa,,,Bonaire Sint Eustatius and Saba,America
+Canada,CAN,1990,13.54,14188.52388,27657206,America,,,Bosnia and Herzegovina,Europe
+Cape Verde,CPV,1990,12.88,11691.27805,364572,Africa,,,Botswana,Africa
+Central African Republic,CAF,1990,23.66,12595.05415,2809223,Africa,,,Bouvet Island,Antarctica
+Chad,TCD,1990,10.54,12064.21445,5827070,Africa,,,Brazil,America
+Chile,CHL,1990,20.17,15154.1087,13342876,America,,,British Indian Ocean Territory,Asia
+China,CHN,1990,20.62,11068.00216,1153704192,Asia,,,British Virgin Islands,America
+Colombia,COL,1990,4.72,9767.325003,32601396,America,,,Brunei,Asia
+Comoros,COM,1990,9.12,12047.13716,431128,Africa,,,Bulgaria,Europe
+Congo,COG,1990,21.3,12325.50604,2385433,Africa,,,Burkina Faso,Africa
+Costa Rica,CRI,1990,6.23,10344.12093,3158257,America,,,Burundi,Africa
+Cote d'Ivoire,CIV,1990,15.48,11299.60277,11910540,Africa,,,Cambodia,Asia
+Croatia,HRV,1990,21.04,11157.30106,4873705,Europe,,,Cameroon,Africa
+Cuba,CUB,1990,20.12,14030.21183,10626679,America,,,Canada,America
+Cyprus,CYP,1990,5.26,13292.60224,788501,Europe,,,Cape Verde,Africa
+Czechia,CZE,1990,19.39,10931.13075,10301190,Europe,,,Cayman Islands,America
+Democratic Republic of Congo,COD,1990,14.39,12460.51405,35987544,Africa,,,Central African Republic,Africa
+Denmark,DNK,1990,23.9,13763.86233,5144626,Europe,,,Chad,Africa
+Djibouti,DJI,1990,9.37,12080.90063,577183,Africa,,,Channel Islands,Europe
+Dominica,DMA,1990,4.58,12774.11353,69501,America,,,Chile,America
+Dominican Republic,DOM,1990,4.86,13027.49322,7129004,America,,,China,Asia
+Ecuador,ECU,1990,5.36,12259.51121,10449845,America,,,Christmas Island,Asia
+Egypt,EGY,1990,4.24,14877.08159,57214632,Africa,,,Cocos Islands,Asia
+El Salvador,SLV,1990,11.86,10723.64459,5367182,America,,,Colombia,America
+England,,1990,9.11,13538.90001,,America,,,Comoros,Africa
+Equatorial Guinea,GNQ,1990,19.65,12645.64791,465560,Africa,,,Congo,Africa
+Eritrea,ERI,1990,14.78,13059.48191,2149967,Africa,,,Cook Islands,Oceania
+Estonia,EST,1990,26.94,11812.92816,1570676,Europe,,,Costa Rica,America
+Eswatini,SWZ,1990,18.41,11978.92727,854020,Africa,,,Cote d'Ivoire,Africa
+Ethiopia,ETH,1990,21.67,13486.79251,47878076,Africa,,,Croatia,Europe
+Fiji,FJI,1990,11.57,10816.7159,780437,Oceania,,,Cuba,America
+Finland,FIN,1990,28.38,14272.85728,4986551,Europe,,,Curacao,America
+France,FRA,1990,21.86,15134.49889,56412896,Europe,,,Cyprus,Europe
+Gabon,GAB,1990,18.54,12182.4382,983039,Africa,,,Czechia,Europe
+Gambia,GMB,1990,8.66,12127.43794,1040625,Africa,,,Czechoslovakia,Europe
+Georgia,GEO,1990,5.34,10223.29187,5391635,Asia,,,Democratic Republic of Congo,Africa
+Germany,DEU,1990,14.52,13740.80695,79370192,Europe,,,Denmark,Europe
+Ghana,GHA,1990,9.18,11465.89352,15446987,Africa,,,Djibouti,Africa
+Greece,GRC,1990,3.54,14334.53555,10302255,Europe,,,Dominica,America
+Greenland,GRL,1990,87.35,16184.57556,55616,America,,,Dominican Republic,America
+Grenada,GRD,1990,6.46,12889.93637,99066,America,,,East Germany,Europe
+Guam,GUM,1990,16.56,10787.75888,138279,Oceania,,,Ecuador,America
+Guatemala,GTM,1990,7.62,10850.67871,9084779,America,,,Egypt,Africa
+Guinea,GIN,1990,9.08,11470.8842,6354146,Africa,,,El Salvador,America
+Guinea-Bissau,GNB,1990,16.4,11553.60839,973557,Africa,,,Equatorial Guinea,Africa
+Guyana,GUY,1990,30.68,13877.62833,747124,America,,,Eritrea,Africa
+Haiti,HTI,1990,12.6,13368.44966,6925335,America,,,Eritrea and Ethiopia,Africa
+Honduras,HND,1990,5.05,10338.67681,5053235,America,,,Estonia,Europe
+Hungary,HUN,1990,34.05,11193.00898,10375989,Europe,,,Eswatini,Africa
+Iceland,ISL,1990,14.43,13323.33897,255026,Europe,,,Ethiopia,Africa
+India,IND,1990,20.16,15069.87525,870452160,Asia,,,Faeroe Islands,Europe
+Indonesia,IDN,1990,4.03,11539.79335,182159888,Asia,,,Falkland Islands,America
+Iran,IRN,1990,7.42,17359.47005,55793628,Asia,,,Fiji,Oceania
+Iraq,IRQ,1990,5.96,13497.66213,17658384,Asia,,,Finland,Europe
+Ireland,IRL,1990,10.29,14179.88948,3485370,Europe,,,France,Europe
+Israel,ISR,1990,7.86,12027.67889,4803255,Asia,,,French Guiana,America
+Italy,ITA,1990,7.08,14195.37436,56756560,Europe,,,French Polynesia,Oceania
+Jamaica,JAM,1990,1.68,12766.60841,2392035,America,,,French Southern Territories,Antarctica
+Japan,JPN,1990,15.84,10914.09338,123686320,Asia,,,Gabon,Africa
+Jordan,JOR,1990,4.82,14351.94235,3480591,Asia,,,Gambia,Africa
+Kazakhstan,KAZ,1990,22.05,10702.37943,16866574,Asia,,,Georgia,Asia
+Kenya,KEN,1990,10.87,12201.59301,23162270,Africa,,,Germany,Europe
+Kiribati,KIR,1990,34.65,11292.73284,75140,Oceania,,,Ghana,Africa
+Kuwait,KWT,1990,2.63,13209.68773,1674942,Asia,,,Gibraltar,Europe
+Kyrgyzstan,KGZ,1990,16.19,10721.85186,4394738,Asia,,,Greece,Europe
+Laos,LAO,1990,13.52,13260.21739,4314442,Asia,,,Greenland,America
+Latvia,LVA,1990,26.55,11323.374,2689398,Europe,,,Grenada,America
+Lebanon,LBN,1990,4.54,15158.78747,3593705,Asia,,,Guadeloupe,America
+Lesotho,LSO,1990,23.58,13669.84337,1799004,Africa,,,Guam,Oceania
+Liberia,LBR,1990,9.85,11704.69428,2209737,Africa,,,Guatemala,America
+Libya,LBY,1990,4.94,13632.03929,4236988,Africa,,,Guernsey,Europe
+Lithuania,LTU,1990,28.54,11575.08246,3785851,Europe,,,Guinea,Africa
+Luxembourg,LUX,1990,16.45,13821.91227,381275,Europe,,,Guinea-Bissau,Africa
+Madagascar,MDG,1990,12.82,12793.37792,11882763,Africa,,,Guyana,America
+Malawi,MWI,1990,13.88,12359.89391,9539669,Africa,,,Haiti,America
+Malaysia,MYS,1990,7.45,11810.97906,17517060,Asia,,,Hanover,Europe
+Maldives,MDV,1990,8.91,12127.21688,224976,Asia,,,Heard Island and McDonald Islands,Antarctica
+Mali,MLI,1990,9.23,11395.04181,8945030,Africa,,,Hesse Electoral,Europe
+Malta,MLT,1990,4.93,13370.55262,365396,Europe,,,Hesse Grand Ducal,Europe
+Marshall Islands,MHL,1990,26.18,11092.69606,46069,Oceania,,,Honduras,America
+Mauritania,MRT,1990,9.61,11323.64171,2006035,Africa,,,Hong Kong,Asia
+Mauritius,MUS,1990,12.73,11659.28732,1090296,Africa,,,Hungary,Europe
+Mexico,MEX,1990,3.79,10009.23353,81720424,America,,,Iceland,Europe
+Micronesia (country),FSM,1990,27.93,11154.51284,98616,Oceania,,,India,Asia
+Moldova,MDA,1990,17.15,11252.21564,4480206,Europe,,,Indonesia,Asia
+Mongolia,MNG,1990,16.61,10904.05149,2161440,Asia,,,Iran,Asia
+Montenegro,MNE,1990,15.91,10657.63801,621450,Europe,,,Iraq,Asia
+Morocco,MAR,1990,8.83,16140.32457,24570816,Africa,,,Ireland,Europe
+Mozambique,MOZ,1990,12.34,12964.22687,13303461,Africa,,,Isle of Man,Europe
+Myanmar,MMR,1990,7.56,12178.66188,40099556,Asia,,,Israel,Asia
+Namibia,NAM,1990,14.4,11802.17902,1369016,Africa,,,Italy,Europe
+Nepal,NPL,1990,17.52,13625.88995,19616528,Asia,,,Jamaica,America
+Netherlands,NLD,1990,10.73,14595.08175,14944550,Europe,,,Japan,Asia
+New Zealand,NZL,1990,13.02,16561.42038,3397388,Oceania,,,Jersey,Europe
+Nicaragua,NIC,1990,6.59,10414.48434,4227824,America,,,Jordan,Asia
+Niger,NER,1990,9.39,11843.47019,8370650,Africa,,,Kazakhstan,Asia
+Nigeria,NGA,1990,8.2,11984.52555,95214256,Africa,,,Kenya,Africa
+North Korea,PRK,1990,14.95,10946.67297,20799522,Asia,,,Kiribati,Oceania
+North Macedonia,MKD,1990,9.72,10609.59287,2044181,Europe,,,Kosovo,Europe
+Northern Ireland,,1990,10.1,16049.86518,,Asia,,,Kuwait,Asia
+Northern Mariana Islands,MNP,1990,16.45,10369.50325,48021,Oceania,,,Kyrgyzstan,Asia
+Norway,NOR,1990,15.38,15065.54625,4241637,Europe,,,Laos,Asia
+Oman,OMN,1990,4.4,13770.9186,1804528,Asia,,,Latvia,Europe
+Pakistan,PAK,1990,8.16,12365.45153,115414072,Asia,,,Lebanon,Asia
+Palestine,PSE,1990,4.03,15797.92262,2124623,Asia,,,Lesotho,Africa
+Panama,PAN,1990,4.84,10244.43654,2449966,America,,,Liberia,Africa
+Papua New Guinea,PNG,1990,3.95,11488.56368,3864983,Oceania,,,Libya,Africa
+Paraguay,PRY,1990,3.45,13545.71641,4059198,America,,,Liechtenstein,Europe
+Peru,PER,1990,3.57,11797.39735,22109102,America,,,Lithuania,Europe
+Philippines,PHL,1990,5.79,11559.04471,61558900,Asia,,,Luxembourg,Europe
+Poland,POL,1990,17.03,10449.72367,38064252,Europe,,,Macao,Asia
+Portugal,PRT,1990,14.02,14428.38366,10007347,Europe,,,Madagascar,Africa
+Puerto Rico,PRI,1990,10.13,12855.72556,3543785,America,,,Malawi,Africa
+Qatar,QAT,1990,5.7,13180.3583,441685,Asia,,,Malaysia,Asia
+Romania,ROU,1990,9.45,10415.89241,22836234,Europe,,,Maldives,Asia
+Russia,RUS,1990,27.81,11123.23283,148005696,Europe,,,Mali,Africa
+Rwanda,RWA,1990,18.53,13070.77221,7319970,Africa,,,Malta,Europe
+Saint Lucia,LCA,1990,8.06,12900.32072,142315,America,,,Marshall Islands,Oceania
+Saint Vincent and the Grenadines,VCT,1990,6.96,12897.41916,112507,America,,,Martinique,America
+Samoa,WSM,1990,16.59,10894.23811,168202,Oceania,,,Mauritania,Africa
+Sao Tome and Principe,STP,1990,2.2,11190.39683,120355,Africa,,,Mauritius,Africa
+Saudi Arabia,SAU,1990,3.31,13216.69658,16004768,Asia,,,Mayotte,Africa
+Scotland,,1990,13,13511.18312,,Europe,,,Mecklenburg Schwerin,Europe
+Senegal,SEN,1990,13.66,11299.96129,7536003,Africa,,,Mexico,America
+Serbia,SRB,1990,21.06,10816.78034,7987530,Europe,,,Micronesia (country),Oceania
+Seychelles,SYC,1990,9.26,10679.42275,71073,Africa,,,Modena,Europe
+Sierra Leone,SLE,1990,8.91,11578.98815,4325390,Africa,,,Moldova,Europe
+Singapore,SGP,1990,15.12,11709.89816,3022218,Asia,,,Monaco,Europe
+Slovakia,SVK,1990,16.98,10630.91141,5261310,Europe,,,Mongolia,Asia
+Slovenia,SVN,1990,28.67,11296.85843,1986030,Europe,,,Montenegro,Europe
+Solomon Islands,SLB,1990,26.61,11385.0973,324184,Oceania,,,Montserrat,America
+Somalia,SOM,1990,14.03,12596.28791,6999098,Africa,,,Morocco,Africa
+South Africa,ZAF,1990,20.69,12385.17487,39877568,Africa,,,Mozambique,Africa
+South Korea,KOR,1990,11.77,10760.16929,44120040,Asia,,,Myanmar,Asia
+South Sudan,SSD,1990,10.37,12167.52065,4750824,Africa,,,Nagorno-Karabakh,Asia
+Spain,ESP,1990,7.66,14950.25701,38889888,Europe,,,Namibia,Africa
+Sri Lanka,LKA,1990,43.37,12411.69943,17204098,Asia,,,Nauru,Oceania
+Sudan,SDN,1990,7.91,16891.88156,21090892,Africa,,,Nepal,Asia
+Suriname,SUR,1990,25.1,13638.50712,412767,America,,,Netherlands,Europe
+Sweden,SWE,1990,18.28,14542.77367,8548407,Europe,,,Netherlands Antilles,America
+Switzerland,CHE,1990,21.68,14014.99204,6711685,Europe,,,New Caledonia,Oceania
+Syria,SYR,1990,3.18,14832.6932,12409003,Asia,,,New Zealand,Oceania
+Taiwan,TWN,1990,10.16,10643.33791,20586176,Asia,,,Nicaragua,America
+Tajikistan,TJK,1990,6.67,10364.9953,5417862,Asia,,,Niger,Africa
+Tanzania,TZA,1990,12.53,12553.1025,26206024,Africa,,,Nigeria,Africa
+Thailand,THA,1990,12.65,12724.30062,55228408,Asia,,,Niue,Oceania
+Timor,TLS,1990,8.34,13272.18718,758120,Asia,,,Norfolk Island,Oceania
+Togo,TGO,1990,10.96,11628.25463,3875958,Africa,,,North Korea,Asia
+Tonga,TON,1990,5.03,10741.11103,98744,Oceania,,,North Macedonia,Europe
+Trinidad and Tobago,TTO,1990,14.64,13351.35971,1266525,America,,,Northern Cyprus,Asia
+Tunisia,TUN,1990,3.82,15072.38896,8440035,Africa,,,Northern Mariana Islands,Oceania
+Turkey,TUR,1990,5.88,14015.91379,54324140,Asia,,,Norway,Europe
+Turkmenistan,TKM,1990,8.87,10423.21394,3720287,Asia,,,Oman,Asia
+Uganda,UGA,1990,11.56,13552.238,17586634,Europe,,,Pakistan,Asia
+Ukraine,UKR,1990,19.46,11663.52745,51589816,Europe,,,Palau,Oceania
+United Arab Emirates,ARE,1990,6.85,11914.77924,1900160,Europe,,,Palestine,Asia
+United Kingdom,GBR,1990,9.5,13613.89093,57210444,Europe,,,Panama,America
+United States,USA,1990,12.1,15591.99867,248083728,America,,,Papua New Guinea,Oceania
+United States Virgin Islands,VIR,1990,7.42,12888.56607,100699,America,,,Paraguay,America
+Uruguay,URY,1990,10.66,14246.64494,3117011,America,,,Parma,Europe
+Uzbekistan,UZB,1990,8.71,10618.24353,20579106,Asia,,,Peru,America
+Vanuatu,VUT,1990,19.54,11178.74725,150900,Oceania,,,Philippines,Asia
+Venezuela,VEN,1990,6.69,10621.11148,19750580,America,,,Pitcairn,Oceania
+Vietnam,VNM,1990,10.38,10751.63391,66912616,Asia,,,Poland,Europe
+World,OWID_WRL,1990,15.37,12770.46031,5316175872,Africa,,,Portugal,Europe
+Yemen,YEM,1990,6.79,15694.83785,13375127,Asia,,,Puerto Rico,America
+Zambia,ZMB,1990,14.62,12072.55976,7686405,Africa,,,Qatar,Asia
+Zimbabwe,ZWE,1990,17.67,11093.1271,10113899,Africa,,,Republic of Vietnam,Asia
+,,,,,,,,,Reunion,Africa
+,,,,,,,,,Romania,Europe
+,,,,,,,,,Russia,Europe
+,,,,,,,,,Rwanda,Africa
+,,,,,,,,,Saint Barth¨¦lemy,America
+,,,,,,,,,Saint Helena,Africa
+,,,,,,,,,Saint Kitts and Nevis,America
+,,,,,,,,,Saint Lucia,America
+,,,,,,,,,Saint Martin (French part),America
+,,,,,,,,,Saint Pierre and Miquelon,America
+,,,,,,,,,Saint Vincent and the Grenadines,America
+,,,,,,,,,Samoa,Oceania
+,,,,,,,,,San Marino,Europe
+,,,,,,,,,Sao Tome and Principe,Africa
+,,,,,,,,,Saudi Arabia,Asia
+,,,,,,,,,Saxony,Europe
+,,,,,,,,,Senegal,Africa
+,,,,,,,,,Serbia,Europe
+,,,,,,,,,Serbia and Montenegro,Europe
+,,,,,,,,,Serbia excluding Kosovo,Europe
+,,,,,,,,,Seychelles,Africa
+,,,,,,,,,Sierra Leone,Africa
+,,,,,,,,,Singapore,Asia
+,,,,,,,,,Sint Maarten (Dutch part),America
+,,,,,,,,,Slovakia,Europe
+,,,,,,,,,Slovenia,Europe
+,,,,,,,,,Solomon Islands,Oceania
+,,,,,,,,,Somalia,Africa
+,,,,,,,,,Somaliland,Africa
+,,,,,,,,,South Africa,Africa
+,,,,,,,,,South Georgia and the South Sandwich Islands,America
+,,,,,,,,,South Korea,Asia
+,,,,,,,,,South Ossetia,Asia
+,,,,,,,,,South Sudan,Africa
+,,,,,,,,,Spain,Europe
+,,,,,,,,,Sri Lanka,Asia
+,,,,,,,,,Sudan,Africa
+,,,,,,,,,Suriname,America
+,,,,,,,,,Svalbard and Jan Mayen,Europe
+,,,,,,,,,Sweden,Europe
+,,,,,,,,,Switzerland,Europe
+,,,,,,,,,Syria,Asia
+,,,,,,,,,Taiwan,Asia
+,,,,,,,,,Tajikistan,Asia
+,,,,,,,,,Tanzania,Africa
+,,,,,,,,,Thailand,Asia
+,,,,,,,,,Timor,Asia
+,,,,,,,,,Togo,Africa
+,,,,,,,,,Tokelau,Oceania
+,,,,,,,,,Tonga,Oceania
+,,,,,,,,,Transnistria,Europe
+,,,,,,,,,Trinidad and Tobago,America
+,,,,,,,,,Tunisia,Africa
+,,,,,,,,,Turkey,Asia
+,,,,,,,,,Turkmenistan,Asia
+,,,,,,,,,Turks and Caicos Islands,America
+,,,,,,,,,Tuscany,Europe
+,,,,,,,,,Tuvalu,Oceania
+,,,,,,,,,Two Sicilies,Europe
+,,,,,,,,,USSR,Europe
+,,,,,,,,,Uganda,Africa
+,,,,,,,,,Ukraine,Europe
+,,,,,,,,,United Arab Emirates,Asia
+,,,,,,,,,United Kingdom,Europe
+,,,,,,,,,United Korea,Asia
+,,,,,,,,,United States,America
+,,,,,,,,,United States Minor Outlying Islands,Oceania
+,,,,,,,,,United States Virgin Islands,America
+,,,,,,,,,Uruguay,America
+,,,,,,,,,Uzbekistan,Asia
+,,,,,,,,,Vanuatu,Oceania
+,,,,,,,,,Vatican,Europe
+,,,,,,,,,Venezuela,America
+,,,,,,,,,Vietnam,Asia
+,,,,,,,,,Wallis and Futuna,Oceania
+,,,,,,,,,West Germany,Europe
+,,,,,,,,,Western Sahara,Africa
+,,,,,,,,,Wuerttemburg,Europe
+,,,,,,,,,Yemen,Asia
+,,,,,,,,,Yemen Arab Republic,Asia
+,,,,,,,,,Yemen People's Republic,Asia
+,,,,,,,,,Yugoslavia,Europe
+,,,,,,,,,Zambia,Africa
+,,,,,,,,,Zanzibar,Africa
+,,,,,,,,,Zimbabwe,Africa
+,,,,,,,,,?land Islands,Europe
